@@ -1,0 +1,13 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by file type specific settings.
+// Put it into ~/.config/sublime-text-3/Packages/User/
+{
+    "font_face": "Ubuntu Mono",
+    "font_size": 14,
+    "rulers": [79],
+    "translate_tabs_to_spaces": true,
+    "highlight_line": true,
+    "match_brackets_angle": true,
+    "trim_trailing_white_space_on_save": true,
+    "ensure_newline_at_eof_on_save": true,
+}
